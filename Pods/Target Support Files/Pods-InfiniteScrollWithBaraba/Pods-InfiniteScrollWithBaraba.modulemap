@@ -1,0 +1,6 @@
+module Pods_InfiniteScrollWithBaraba {
+  umbrella header "Pods-InfiniteScrollWithBaraba-umbrella.h"
+
+  export *
+  module * { export * }
+}

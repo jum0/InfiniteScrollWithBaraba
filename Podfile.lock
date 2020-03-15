@@ -1,0 +1,16 @@
+PODS:
+  - Baraba (1.0.1)
+
+DEPENDENCIES:
+  - Baraba
+
+SPEC REPOS:
+  trunk:
+    - Baraba
+
+SPEC CHECKSUMS:
+  Baraba: 2996c49fb7dfc010e321d9b9dbbbca96d294d95a
+
+PODFILE CHECKSUM: 683f5e1f71fabc1b25578bd32bc45c7b8c4292e5
+
+COCOAPODS: 1.8.4
