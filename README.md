@@ -27,7 +27,7 @@ Baraba `READ.md` 페이지의 `Example` 탭에 적혀있는 문장이다. 프로
 
 #### Scheme 변경하기
 
-<img src="/Users/junmohan/Desktop/InfiniteScrollWithBaraba/Img/1.png" alt="1" style="zoom:30%;" /> <img src="/Users/junmohan/Desktop/InfiniteScrollWithBaraba/Img/2.png" alt="1" style="zoom:30%;" />
+<img src="Img/1.png" alt="first image" width="375"> <img src="Img/2.png" alt="second image" width="375">
 
 클릭 클릭
 
